@@ -1,6 +1,6 @@
-# TypeScript速成
+# TypeScript教程
 
-本教程旨在帮助有一定JavaScript编程经验的开发者**速成**TypeScript语法，所有的示例代码都通过`version 3.1.1`版本的编译器调试验证。
+本教程旨在帮助有一定JavaScript编程经验的开发者**速成**TypeScript，所有示例代码都通过`version 3.2.2`版本的编译器调试验证。
 
 由于TypeScript是ES6的超集，因而ES6语法不是本教程的讲解范畴，请务必优先掌握ES6。
 
