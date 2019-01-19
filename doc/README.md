@@ -4,7 +4,7 @@ TypeScript 语法是 ECMAScript 2015 (ES2015) 语法的**超集**，也就是说
 
 # 目录
 
-> 本教程所有内容和示例基于编译器版本 `Version 3.2.2` 验证，如有错误或纰漏，请及时[提交Issue](https://github.com/joye61/typescript-tutorial/issues/new)提醒作者更新，以防对他人造成误导。
+本教程所有内容和示例基于编译器版本 `Version 3.2.2` 验证，如有错误或纰漏，请及时[提交Issue](https://github.com/joye61/typescript-tutorial/issues/new)提醒作者更新，以防对他人造成误导。
 
 ## 类型
 
