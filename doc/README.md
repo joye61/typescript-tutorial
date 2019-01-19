@@ -1,10 +1,10 @@
 # TypeScript 教程
 
-> 当前教程基于编译器版本 `Version 3.2.2` 验证编写
-
 TypeScript 语法是 ECMAScript 2015 (ES2015) 语法的**超集**，也就是说TypeScript 完全兼容 ECMAScript 2015。本教程只讲解**超集中的语法扩展**部分，**请务必优先掌握 ESMAScript 2015**
 
 # 目录
+
+> 本教程所有内容和示例基于编译器版本 `Version 3.2.2` 验证，如有错误或纰漏，请及时[提交Issue](https://github.com/joye61/typescript-tutorial/issues/new)提醒作者更新，以防对他人造成误导。
 
 ## 类型
 
