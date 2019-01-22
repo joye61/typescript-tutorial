@@ -2,6 +2,6 @@
 //--------------never---------------
 var n;
 //----------------any-----------------
-var x;
-x = 1;
-x = true;
+var anyValue;
+anyValue = 1;
+anyValue = true;

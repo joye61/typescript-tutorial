@@ -2,6 +2,6 @@
 let n: boolean & number;
 
 //----------------any-----------------
-let x;
-x = 1;
-x = true;
+let anyValue;
+anyValue = 1;
+anyValue = true;
