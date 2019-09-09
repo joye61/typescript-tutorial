@@ -1,11 +1,38 @@
-# TypeScript 教程
+# TypeScript 速成教程
 
-> 本教程所有内容和示例基于编译器版本 `Version 3.2.2` 验证，如有错误或纰漏，请[提交Issue](https://github.com/joye61/typescript-tutorial/issues/new)提醒作者更新，以防对他人造成误导
+根据[官方语言规范描述](https://github.com/microsoft/TypeScript/blob/master/doc/spec.md#1)：TypeScript 语言的语法是 `ECMAScript 2015` (后面统称`ES6`) 语法的**超集**。这种说法不完全准确，比方说对于来自`ES7`的`async`和`await`语法TypeScript也提供了语言支持。学习了TypeScript，就无需纠结当前语言特性到底是来自`ES6`、`ES7`、还是`ESNext`，[babel编译器](https://babeljs.io/)所支持的语言特性，TypeScript绝大部分都原生支持。
 
-TypeScript 语法是 ECMAScript 2015 (ES2015) 语法的**超集**，也就是说TypeScript 完全兼容 ECMAScript 2015。本教程只讲解**超集中的语法扩展**部分，**请务必优先掌握 ESMAScript 2015**
+> 本教程不会讲解任何关于 `ES6` 的知识，作为TypeScript语言的基础，请务必先掌握 `ES6`
+
+
+## 如何学习本教程
+
+本教程旨在让读者**速成**，希望本教程的任意读者花费**最多3个小时的时间**就能开始编写TypeScript代码。作者有十几年一线编程经验，**现阶段**是**语言工具论**的拥护者，我认为学习编程语言，不应该投入过多的时间精力。正确的步骤应该是：
+
+1. 花费少量的时间掌握语法和编译器基础
+2. 花费大量的时间将语言付诸各种繁杂且重复的开发实践
+3. 在实践中踩坑，并逐渐掌握语言本身的精髓和设计理念
+4. 最终精通语言及其附属生态
+
+观点不一定正确，但确实是作者现阶段的实际思考！切记：**不要钻牛角尖，更不要纠结文字游戏**，绝大部分时候你真的不需要搞清楚**声明**和**定义**的区别到底是什么鬼，让我们一起先学会怎么用吧！
+
+
+## 准确性保证
+
+- [https://github.com/microsoft/TypeScript] 重点参考了官方Wiki、Specification、Issues区
+- 作者本人大量的基于 `typescript` 语言的编码实践，已经完全采用 `typescript` 取代 `ES2015` 应用于日常各种类型业务研发
+
+## 编译器版本
+
+目前最新版本的内容和示例皆通过 `tsc` 编译器版本 `Version 3.6.2` 验证，所有示例代码可自行验证。但难免错误，如有发现，烦请立即[提交Issue](https://github.com/joye61/typescript-tutorial/issues/new)，以防对他人造成误导
+
+
+# 目录
+
 
 ## 类型
 
+- [为什么需要类型](./类型/为什么需要类型.md)
 - [值的类型化](./doc/类型/值的类型化.md)
 - [简单类型](./doc/类型/简单类型.md)
 - [数组类型](./doc/类型/数组类型.md)
