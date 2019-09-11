@@ -1,8 +1,6 @@
-# 说明：作者正在编写新版，但时间有限，希望理解
+# TypeScript 速成教程
 
-# TypeScript 教程
-
-> 本教程所有内容和示例基于编译器版本 `Version 3.2.2` 验证，如有错误或纰漏，请[提交Issue](https://github.com/joye61/typescript-tutorial/issues/new)提醒作者更新，以防对他人造成误导
+> 本教程所有内容和示例基于编译器版本 `Version 3.2.2` 验证，如有错误或纰漏，请[提交Issue](https://github.com/joye61/typescript-tutorial/issues/new)，作者会及时更新
 
 TypeScript 语法是 ECMAScript 2015 (ES2015) 语法的**超集**，也就是说TypeScript 完全兼容 ECMAScript 2015。本教程只讲解**超集中的语法扩展**部分，**请务必优先掌握 ESMAScript 2015**
 
