@@ -1,3 +1,12 @@
+
+🎙关于项目`clxx`🎙
+
+♥♥♥♥♥♥♥♥♥♥♥
+
+作者正在竭尽全力维护 [`clxx`一个移动端完全自适应的组件库](https://github.com/joye61/clxx)，该项目完全采用 `TypeScript` + `React Hooks` + `CSS-in-JS`技术开发！由于有繁重工作，只能业余维护，实在是缺少时间更新文档、代码测试，希望看到的同学能积极贡献此项目的文档、代码、测试，感激不尽！
+
+♥♥♥♥♥♥♥♥♥♥♥♥
+
 # TypeScript 速成教程
 
 根据[官方语言规范描述](https://github.com/microsoft/TypeScript/blob/master/spec.md#1)：TypeScript 的语法是 `ECMAScript 2015` (后面统称`ES6`) 语法的**超集**，这种说法不完全准确，比方说对于来自`ES7`的`async`和`await`语法TypeScript也提供了语言支持。
